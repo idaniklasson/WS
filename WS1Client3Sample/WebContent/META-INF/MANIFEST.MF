@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class-Path: WS1Client3.jar
+
